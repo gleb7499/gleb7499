@@ -31,7 +31,6 @@
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Мои проекты</h3>
 
-
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" /> <a href="https://github.com/gleb7499/course_project_5_term"> Мобильное приложение учета донаций крови LifeLine</a>
 <ul>
   <li>Java, SQLite, Firebase Authentication</li>
@@ -59,9 +58,16 @@
 
 <img src="https://skillicons.dev/icons?i=qt,cpp,cmake" height="30" />
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Admission%20Tickets.webp" alt="Admission Tickets" width="25" height="25" /> <a href="https://github.com/gleb7499/University">Университет</a>
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="25" height="25" /> <a href="https://github.com/gleb7499/University">Университет</a>
 <div align="centre">
-  В этом репозитории собраны все мои лабораторные работы, которые я выполнял в процессе обучения <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Relieved%20Face.webp" alt="Relieved Face" width="25" height="25" />
+  В этом репозитории собраны все мои лабораторные работы, которые я выполнял в процессе обучения
+</div>
+
+<br>
+
+<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> <a href="https://github.com/gleb7499/QuizizzHub">QuizizzHub</a>
+<div align="centre">
+  Об этом проекте преподавателям лучше не знать, ведь именно благодаря нему я получил высший бал за несколько дисциплин <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" />
 </div>
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> GitHub Статистика</h3>
