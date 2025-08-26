@@ -1,4 +1,6 @@
-<div align="center"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="200" height="200" /> </div>
+<div align="center"> 
+  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="200" height="200" /> 
+</div>
 
 <h1 align="center">Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> Меня зовут Глеб</h1>
 
@@ -11,64 +13,63 @@
   </a>
 </div>
 
+---
+
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Bust%20In%20Silhouette.webp" alt="Bust In Silhouette" width="25" height="25" /> Обо мне</h3>
 
 <p align="left">
-  Я студент IT-направления, увлеченный backend-разработкой. Люблю разбираться в сложных задачах, учусь на отлично и сейчас фокусируюсь на Java и Spring. Моя цель — разрабатывать надежные и масштабируемые системы.
+  Я студент IT-направления, сейчас фокусируюсь на Android-разработке на Java. 
+  Люблю разбираться в архитектуре приложений, работать с базами данных (SQLite, Room) и интегрировать внешние сервисы (Firebase, REST API). 
+  В проектах уделяю внимание не только функциональности, но и чистоте кода и архитектурным паттернам.
 </p>
 
-<div align="left">
-  <h3 align="left">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/Rocket.webp" alt="Rocket" width="25" height="25" /> Фокусируюсь на <br>  
-  </h3>
-  <img src="https://skillicons.dev/icons?i=java,spring,sqlite" height="40" alt="Активный фокус"  />
-  <br>
-  <h3 align="left">
-    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> Изучал и использовал в учебных и личных проектах
-  </h3>
-  <img src="https://skillicons.dev/icons?i=cpp,python,qt,cmake,html,css,javascript,vue" height="40" alt="Пассивный фокус" />
-</div>
+---
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Мои проекты</h3>
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/1st%20Place%20Medal.webp" alt="1st Place Medal" width="25" height="25" /> <a href="https://github.com/gleb7499/course_project_5_term"> Мобильное приложение учета донаций крови LifeLine</a>
-<ul>
-  <li>Java, SQLite, Firebase Authentication</li>
-  <li>Модульная архитектура, Material Design 3</li>
-  <li>Автоматический анализ кода (SonarCloud, GitHub Actions)</li>
-</ul>
+### 📱 [LifeLine – Учёт донаций крови](https://github.com/gleb7499/course_project_5_term)
+- Java, SQLite, Firebase Authentication  
+- Модульная архитектура (экраны, база, модели, адаптеры)  
+- Retrofit + Gson для работы с сетью  
+- Material Design 3 для UI  
+- Автоматический анализ кода через SonarCloud  
 
-<img src="https://skillicons.dev/icons?i=java,sqlite,firebase,materialui,githubactions" height="30" />
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/2nd%20Place%20Medal.webp" alt="2nd Place Medal" width="25" height="25" /> <a href="https://github.com/gleb7499/course_project_4_term">Система сбора данных с площадок интернет-торговли</a>
-<ul>
-  <li>Python 3.12, BeautifulSoup, aiohttp</li>
-  <li>Асинхронный сбор данных, UI на customtkinter</li>
-  <li>SQLite для хранения данных, тестирование с pytest</li>
-</ul>
+### 🍽️ [My Dishes – Подсчёт КБЖУ блюд](https://github.com/gleb7499/My-dishes)
+- Java, Room (SQLite), Repository Pattern  
+- Нормализованная схема БД (3NF)  
+- Многомодульная структура, кастомные адаптеры  
+- Асинхронные операции и колбэки  
+- Парсер продуктов с сайта edostavka.by  
+- Паттерны: Singleton, Repository, Template Method  
 
-<img src="https://skillicons.dev/icons?i=python,sqlite" height="30" />
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/3rd%20Place%20Medal.webp" alt="3rd Place Medal" width="25" height="25" /> <a href="https://github.com/gleb7499/course_project_3_term">Приложение для управления книгами BookMaster</a>
-<ul>
-  <li>Qt 4.x, QtWidgets, QtGui, QtCore</li>
-  <li>Добавление, редактирование и удаление книг</li>
-  <li>Интуитивно понятный UI</li>
-</ul>
+### 🛒 [Система сбора данных с площадок интернет-торговли](https://github.com/gleb7499/course_project_4_term)
+- Python 3.12, BeautifulSoup, aiohttp  
+- Асинхронный сбор данных  
+- UI на customtkinter  
+- SQLite для хранения, тесты на pytest  
 
-<img src="https://skillicons.dev/icons?i=qt,cpp,cmake" height="30" />
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Military%20Medal.webp" alt="Military Medal" width="25" height="25" /> <a href="https://github.com/gleb7499/University">Университет</a>
-<div align="centre">
-  В этом репозитории собраны все мои лабораторные работы, которые я выполнял в процессе обучения
-</div>
+### 📚 [BookMaster – Приложение для управления книгами](https://github.com/gleb7499/course_project_3_term)
+- C++/Qt, QtWidgets  
+- Добавление, редактирование и удаление книг  
+- Интуитивно понятный UI  
 
-<br>
+---
 
-<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="25" height="25" /> <a href="https://github.com/gleb7499/QuizizzHub">QuizizzHub</a>
-<div align="centre">
-  Об этом проекте преподавателям лучше не знать, ведь именно благодаря нему я получил высший бал за несколько дисциплин <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Shushing%20Face.webp" alt="Shushing Face" width="25" height="25" />
-</div>
+### 🎓 [University](https://github.com/gleb7499/University)
+Репозиторий с лабораторными работами, выполненными в процессе обучения.  
+
+---
+
+### 🎮 [QuizizzHub](https://github.com/gleb7499/QuizizzHub)
+Проект-автоматизация для прохождения викторин.  
+
+---
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Fire.webp" alt="Fire" width="25" height="25" /> GitHub Статистика</h3>
 
