@@ -8,7 +8,7 @@
   <a href="https://github.com/gleb7499" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub"  />
   </a>
-  <a href="https://t.me/gbol0" target="_blank">
+  <a href="https://t.me/gleb7499" target="_blank">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram"  />
   </a>
 </div>
