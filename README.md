@@ -18,15 +18,37 @@
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Bust%20In%20Silhouette.webp" alt="Bust In Silhouette" width="25" height="25" /> Обо мне</h3>
 
 <p align="left">
-  Я студент IT-направления, сейчас фокусируюсь на Android-разработке на Java. Дополнительно изучаю Spring для создания серверных приложений.
-  В проектах для меня важно не только реализовать функционал, но и строить архитектуру так, чтобы код был поддерживаемым и удобным для расширения.  
-  Работаю с базами данных (SQLite, Room), паттернами проектирования (Singleton, Repository, абстрактные классы), интегрирую внешние сервисы (Firebase, REST API) и уделяю внимание UI/UX (Material Design 3, DataBinding, динамические темы).  
+  Я студент БрГТУ (4 курс, программная инженерия) и развиваюсь как <b>Java backend-инженер</b>.
+  Мой основной фокус сейчас - системы с real-time нагрузкой, интеграциями и требованиями к надежности: Java 21+, Spring Boot, WebSocket, TCP, PostgreSQL, Docker/Kubernetes.
+  Параллельно сохраняю сильный frontend-трек (React/TypeScript), чтобы лучше проектировать полный контур продукта и API-контракты между слоями.
+  В разработке для меня приоритетны архитектура, расширяемость и предсказуемое поведение системы в эксплуатации.
+</p>
+
+<p align="left">
+  <b>Сейчас в стеке:</b> Java, Spring Boot, Spring Web/WebSocket, Spring Data JPA, REST API, OpenAPI/Swagger, TCP sockets, Gradle, PostgreSQL, Docker, Kubernetes, GitHub Actions.
+</p>
+
+<p align="left">
+  <b>Английский:</b> Intermediate.
+</p>
 
 ---
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Мои проекты</h3>
 
-#### 🚀 Android
+#### ⚙️ Java / Backend (основной фокус)
+
+### 🏭 [SCADA Mobile - промышленный real-time контур](https://github.com/gleb7499/scada-mobile)
+
+* Java 21+, Spring Boot, REST + WebSocket, TCP интеграция с PrintSrv
+* Асинхронный polling оборудования (цикл 500 мс), in-memory snapshot-модель
+* Формирование и поддержка API-контрактов (OpenAPI/Swagger)
+* ETag-кэширование topology endpoints
+* Централизованная обработка ошибок (GlobalExceptionHandler)
+* Health/live/ready probes, эксплуатационное логирование, Docker/Kubernetes
+* <b>Ключевой промышленный проект</b> с практикой в реальном производственном контуре
+
+---
 
 ### 🍽️ [My Dishes – Подсчёт КБЖУ блюд](https://github.com/gleb7499/My-dishes)
 
@@ -36,23 +58,69 @@
 * Асинхронные операции и callback-архитектура
 * BaseAdapter и Utils для сокращения дублирования
 * DataBinding и поддержка динамических тем
-* Парсер продуктов с сайта edostavka.by
-* <b>Последний проект</b>, в котором я сосредоточился на архитектуре и поддерживаемом коде.
+* Абстрактный Parser + реализация источника edostavka.by
+* <b>Pet-проект с упором на поддерживаемую и расширяемую архитектуру</b>
 
 ---
 
-### 📱 [LifeLine – Учёт донаций крови](https://github.com/gleb7499/course_project_5_term)
+### 📱 [MPIS - лабораторные Android-модули](https://github.com/gleb7499/MPIS)
+
+* Java, Android SDK, SQLite, сеть и JSON, мультимедиа, геолокация
+* Практический учебный трек: события/UI, хранение данных, работа с API
+* База для системной отработки Android-инженерии
+
+---
+
+#### 🎨 Frontend (второй трек)
+
+### 🐔 [The Southern Crown - админ-панель](https://github.com/gleb7499/The-southern-crown)
+
+* React + Vite
+* Экраны отчетов и настроек, каскадные фильтры, календарные сценарии
+* Экспорт XLSX/CSV, обработка loading/error состояний
+* Улучшения UX и доступности
+
+---
+
+### 💬 [Support Chat - прототип панели оператора](https://github.com/gleb7499/support-chat)
+
+* HTML/CSS/JavaScript (модульный IIFE-подход)
+* Единый state и локальные store, active/archive диалоги
+* CRUD шаблонов, вложения inline-image/file, модальные сценарии
+* Подготовленный API-слой для интеграции с реальным backend
+
+---
+
+### 🏠 [Estate Agency - карточка объекта недвижимости](https://github.com/gleb7499/estate-agency)
+
+* HTML/CSS/JavaScript
+* Изолированная встраиваемая верстка, галерея/лайтбокс, модальные формы
+* Интеграционный слой событий для CMS-страницы
+* Адаптация под разные экраны и печатные сценарии
+
+---
+
+### 🧩 [Bitrix Introduction - динамические страницы услуг](https://github.com/gleb7499/Bitrix-introduction)
+
+* 1C-Bitrix, PHP, шаблонизация компонентов
+* Перенос статичной верстки в динамические service-страницы
+* Конфигурируемый контент через свойства инфоблока
+* Документация внедрения и масштабирования структуры страниц
+
+---
+
+#### 🛠️ Дополнительно
+
+### 📱 [LifeLine - учёт донаций крови](https://github.com/gleb7499/course_project_5_term)
 
 * Java, SQLite, Firebase Authentication
 * Модульная архитектура (экраны, база, модели, адаптеры)
 * Retrofit + Gson для работы с сетью
 * Material Design 3 для UI
 * Автоматический анализ кода через SonarCloud
-* <b>Первый серьёзный проект</b>, где я сосредоточился на реализации функционала и освоении базовых технологий.
+* <b>Один из первых серьёзных Android-проектов</b>
 
 ---
-
-#### 🛠️ Другие проекты
 
 ### 🛒 [Система сбора данных с площадок интернет-торговли](https://github.com/gleb7499/course_project_4_term)
 
