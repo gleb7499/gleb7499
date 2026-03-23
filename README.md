@@ -36,9 +36,9 @@
 
 <h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Мои проекты</h3>
 
-#### ⚙️ Java / Backend (основной фокус)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> Java / Backend (основной фокус)
 
-### 🏭 [SCADA Mobile - промышленный real-time контур](https://github.com/gleb7499/scada-mobile)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Up%20Button.webp" alt="Up Button" width="25" height="25" /> [SCADA Mobile - промышленный real-time контур](https://github.com/gleb7499/scada-mobile)
 
 * Java 21+, Spring Boot, REST + WebSocket, TCP интеграция с PrintSrv
 * Асинхронный polling оборудования (цикл 500 мс), in-memory snapshot-модель
@@ -50,7 +50,7 @@
 
 ---
 
-### 🍽️ [My Dishes – Подсчёт КБЖУ блюд](https://github.com/gleb7499/My-dishes)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Fork%20And%20Knife%20With%20Plate.webp" alt="Fork And Knife With Plate" width="25" height="25" /> [My Dishes – Подсчёт КБЖУ блюд](https://github.com/gleb7499/My-dishes)
 
 * Java, Room (SQLite), Repository Pattern
 * Нормализованная схема БД (3NF)
@@ -63,7 +63,7 @@
 
 ---
 
-### 📱 [MPIS - лабораторные Android-модули](https://github.com/gleb7499/MPIS)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> [MPIS - лабораторные Android-модули](https://github.com/gleb7499/MPIS)
 
 * Java, Android SDK, SQLite, сеть и JSON, мультимедиа, геолокация
 * Практический учебный трек: события/UI, хранение данных, работа с API
@@ -71,9 +71,9 @@
 
 ---
 
-#### 🎨 Frontend (второй трек)
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Frontend (второй трек)
 
-### 🐔 [The Southern Crown - админ-панель](https://github.com/gleb7499/The-southern-crown)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Chicken.webp" alt="Chicken" width="25" height="25" /> [The Southern Crown - админ-панель](https://github.com/gleb7499/The-southern-crown)
 
 * React + Vite
 * Экраны отчетов и настроек, каскадные фильтры, календарные сценарии
@@ -82,7 +82,7 @@
 
 ---
 
-### 💬 [Support Chat - прототип панели оператора](https://github.com/gleb7499/support-chat)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> [Support Chat - прототип панели оператора](https://github.com/gleb7499/support-chat)
 
 * HTML/CSS/JavaScript (модульный IIFE-подход)
 * Единый state и локальные store, active/archive диалоги
@@ -91,7 +91,7 @@
 
 ---
 
-### 🏠 [Estate Agency - карточка объекта недвижимости](https://github.com/gleb7499/estate-agency)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/House.webp" alt="House" width="25" height="25" /> [Estate Agency - карточка объекта недвижимости](https://github.com/gleb7499/estate-agency)
 
 * HTML/CSS/JavaScript
 * Изолированная встраиваемая верстка, галерея/лайтбокс, модальные формы
@@ -100,7 +100,7 @@
 
 ---
 
-### 🧩 [Bitrix Introduction - динамические страницы услуг](https://github.com/gleb7499/Bitrix-introduction)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> [Bitrix Introduction - динамические страницы услуг](https://github.com/gleb7499/Bitrix-introduction)
 
 * 1C-Bitrix, PHP, шаблонизация компонентов
 * Перенос статичной верстки в динамические service-страницы
@@ -109,9 +109,9 @@
 
 ---
 
-#### 🛠️ Дополнительно
+#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Дополнительно
 
-### 📱 [LifeLine - учёт донаций крови](https://github.com/gleb7499/course_project_5_term)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> [LifeLine - учёт донаций крови](https://github.com/gleb7499/course_project_5_term)
 
 * Java, SQLite, Firebase Authentication
 * Модульная архитектура (экраны, база, модели, адаптеры)
@@ -122,7 +122,7 @@
 
 ---
 
-### 🛒 [Система сбора данных с площадок интернет-торговли](https://github.com/gleb7499/course_project_4_term)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Shopping%20Cart.webp" alt="Shopping Cart" width="25" height="25" /> [Система сбора данных с площадок интернет-торговли](https://github.com/gleb7499/course_project_4_term)
 
 * Python 3.12, BeautifulSoup, aiohttp
 * Асинхронный сбор данных
@@ -131,7 +131,7 @@
 
 ---
 
-### 📚 [BookMaster – Приложение для управления книгами](https://github.com/gleb7499/course_project_3_term)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> [BookMaster – Приложение для управления книгами](https://github.com/gleb7499/course_project_3_term)
 
 * C++/Qt, QtWidgets
 * Добавление, редактирование и удаление книг
@@ -139,12 +139,12 @@
 
 ---
 
-### 🎓 [University](https://github.com/gleb7499/University)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> [University](https://github.com/gleb7499/University)
 
 Репозиторий с лабораторными работами, выполненными в процессе обучения.
 
 ---
 
-### 🎮 [QuizizzHub](https://github.com/gleb7499/QuizizzHub)
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> [QuizizzHub](https://github.com/gleb7499/QuizizzHub)
 
 Проект-автоматизация для прохождения викторин.
