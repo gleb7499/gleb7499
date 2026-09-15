@@ -1,150 +1,94 @@
 <div align="center">
-  <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Technologist.webp" alt="Technologist" width="200" height="200" />
+
+# Привет, я Глеб 👋 · Hi, I'm Gleb
+
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/gleb7499)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/gleb7499)
+
+**RU:** Инженер-разработчик. Днём — Java backend в проде, вне работы — фриланс в разных нишах и инди-проекты.
+
+**EN:** Software engineer. Java backend by day; freelance across different stacks and niches + indie projects after hours.
+
 </div>
 
-<h1 align="center">Привет! <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Waving%20Hand.webp" alt="Waving Hand" width="25" height="25" /> Меня зовут Глеб</h1>
+---
 
-<div align="center">
-  <a href="https://github.com/gleb7499" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="25" alt="GitHub"  />
-  </a>
-  <a href="https://t.me/gleb7499" target="_blank">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" height="25" alt="Telegram"  />
-  </a>
-</div>
+## 🇷🇺 Русский
+
+### Обо мне
+
+Java backend-инженер: Spring Boot, real-time (WebSocket/TCP), PostgreSQL, Docker/Kubernetes. Делаю фриланс на разных стеках — от Chrome-расширений до 1C-Bitrix — и свои продукты. Этот профиль — публичный рабочий стол: в разделе «Свежее» видно, чем я занят сейчас.
+
+**Стек:** Java 21, Spring Boot, WebSocket, REST/OpenAPI, PostgreSQL, Docker, Kubernetes, GitHub Actions · React/TypeScript · Python · 1C/Bitrix
+
+### Свежее
+
+- **[OSTIS-2026-neuro-symbolic-rework](https://github.com/gleb7499/OSTIS-2026-neuro-symbolic-rework)** — научная статья (LaTeX/IEEEtran) про нейро-символьное управление пастеризационной установкой. Координатор команды из 5 авторов: настроил branch protection, CODEOWNERS и CI-проверку чужих файлов.
+- **Chrome-расширение для Upwork** (MV3, выгрузка выдачи вакансий в HTML) — приватный репозиторий, покажу по запросу.
+
+### Проекты
+
+**Продакшн**
+
+- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — промышленный real-time контур: Spring Boot, опрос оборудования по TCP (цикл 500 мс), WebSocket, OpenAPI, Docker/Kubernetes. Backend + Android-клиент + веб-фронт.
+
+**Инди**
+
+- **[My Dishes](https://github.com/gleb7499/My-dishes)** — Android-приложение для подсчёта КБЖУ блюд. Java, Room (SQLite, 3NF), архитектура с DAO/Repository.
+
+**Фриланс**
+
+- **[The Southern Crown](https://github.com/gleb7499/The-southern-crown)** — админ-панель на React: отчёты, каскадные фильтры, экспорт XLSX/CSV.
+- **[Estate Agency](https://github.com/gleb7499/estate-agency)** — встраиваемая карточка объекта недвижимости: галерея, модальные формы, интеграция с CMS.
+- **[Support Chat](https://github.com/gleb7499/support-chat)** — прототип панели оператора поддержки на vanilla JS: единый state, шаблоны, вложения.
+- **[Bitrix Introduction](https://github.com/gleb7499/Bitrix-introduction)** — перенос статичной вёрстки в динамические страницы услуг на 1C-Bitrix.
+
+**Учёба и архив**
+
+- **[LifeLine](https://github.com/gleb7499/course_project_5_term)** — Android-приложение для учёта донаций крови (Java, SQLite, Firebase Auth).
+- **[Маркетплейс-парсер](https://github.com/gleb7499/course_project_4_term)** — асинхронный сбор данных с площадок (Python, aiohttp, BeautifulSoup).
+- **[BookMaster](https://github.com/gleb7499/course_project_3_term)** — десктопное приложение для учёта книг (C++/Qt).
+- **[MPIS](https://github.com/gleb7499/MPIS)** — Android-лабораторные (архив).
+- **[University](https://github.com/gleb7499/University)** — лабораторные работы за время обучения.
+- **[QuizizzHub](https://github.com/gleb7499/QuizizzHub)** — автоматизация прохождения викторин.
 
 ---
 
-<h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/People/Bust%20In%20Silhouette.webp" alt="Bust In Silhouette" width="25" height="25" /> Обо мне</h3>
+## 🇬🇧 English
 
-<p align="left">
-  Я студент БрГТУ (4 курс, программная инженерия) и развиваюсь как <b>Java backend-инженер</b>.
-  Мой основной фокус сейчас - системы с real-time нагрузкой, интеграциями и требованиями к надежности: Java 21+, Spring Boot, WebSocket, TCP, PostgreSQL, Docker/Kubernetes.
-  Параллельно сохраняю сильный frontend-трек (React/TypeScript), чтобы лучше проектировать полный контур продукта и API-контракты между слоями.
-  В разработке для меня приоритетны архитектура, расширяемость и предсказуемое поведение системы в эксплуатации.
-</p>
+### About
 
-<p align="left">
-  <b>Сейчас в стеке:</b> Java, Spring Boot, Spring Web/WebSocket, Spring Data JPA, REST API, OpenAPI/Swagger, TCP sockets, Gradle, PostgreSQL, Docker, Kubernetes, GitHub Actions.
-</p>
+Java backend engineer: Spring Boot, real-time (WebSocket/TCP), PostgreSQL, Docker/Kubernetes. I freelance across stacks — from Chrome extensions to 1C-Bitrix — and build my own products. This profile is my public workspace: check **Recent** to see what I'm up to.
 
-<p align="left">
-  <b>Английский:</b> Intermediate.
-</p>
+**Stack:** Java 21, Spring Boot, WebSocket, REST/OpenAPI, PostgreSQL, Docker, Kubernetes, GitHub Actions · React/TypeScript · Python · 1C/Bitrix
 
----
+### Recent
 
-<h3 align="left"> <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="25" height="25" /> Мои проекты</h3>
+- **[OSTIS-2026-neuro-symbolic-rework](https://github.com/gleb7499/OSTIS-2026-neuro-symbolic-rework)** — LaTeX/IEEEtran paper on neuro-symbolic control of a pasteurization unit. Coordinated a team of 5 authors: branch protection, CODEOWNERS, CI file-guard.
+- **Upwork Chrome extension** (MV3, dumps job search pages to HTML) — private repo, happy to share on request.
 
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Keyboard.webp" alt="Keyboard" width="25" height="25" /> Java / Backend (основной фокус)
+### Projects
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Up%20Button.webp" alt="Up Button" width="25" height="25" /> [SCADA Mobile - промышленный real-time контур](https://github.com/gleb7499/scada-mobile)
+**Production**
 
-* Java 21+, Spring Boot, REST + WebSocket, TCP интеграция с PrintSrv
-* Асинхронный polling оборудования (цикл 500 мс), in-memory snapshot-модель
-* Формирование и поддержка API-контрактов (OpenAPI/Swagger)
-* ETag-кэширование topology endpoints
-* Централизованная обработка ошибок (GlobalExceptionHandler)
-* Health/live/ready probes, эксплуатационное логирование, Docker/Kubernetes
-* <b>Ключевой промышленный проект</b> с практикой в реальном производственном контуре
+- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — industrial real-time system: Spring Boot, TCP equipment polling (500 ms cycle), WebSocket, OpenAPI, Docker/Kubernetes. Backend + Android client + web frontend.
 
----
+**Indie**
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Food%20and%20Drink/Fork%20And%20Knife%20With%20Plate.webp" alt="Fork And Knife With Plate" width="25" height="25" /> [My Dishes – Подсчёт КБЖУ блюд](https://github.com/gleb7499/My-dishes)
+- **[My Dishes](https://github.com/gleb7499/My-dishes)** — Android app for tracking meal macros. Java, Room (SQLite, 3NF), clean DAO/Repository architecture.
 
-* Java, Room (SQLite), Repository Pattern
-* Нормализованная схема БД (3NF)
-* Архитектура с DAO и Repository
-* Асинхронные операции и callback-архитектура
-* BaseAdapter и Utils для сокращения дублирования
-* DataBinding и поддержка динамических тем
-* Абстрактный Parser + реализация источника edostavka.by
-* <b>Pet-проект с упором на поддерживаемую и расширяемую архитектуру</b>
+**Freelance**
 
----
+- **[The Southern Crown](https://github.com/gleb7499/The-southern-crown)** — React admin panel: reports, cascading filters, XLSX/CSV export.
+- **[Estate Agency](https://github.com/gleb7499/estate-agency)** — embeddable real-estate listing card: gallery, modal forms, CMS integration.
+- **[Support Chat](https://github.com/gleb7499/support-chat)** — support operator panel prototype in vanilla JS: single state, templates, attachments.
+- **[Bitrix Introduction](https://github.com/gleb7499/Bitrix-introduction)** — migrating static layouts to dynamic service pages on 1C-Bitrix.
 
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> [MPIS - лабораторные Android-модули](https://github.com/gleb7499/MPIS)
+**University & archive**
 
-* Java, Android SDK, SQLite, сеть и JSON, мультимедиа, геолокация
-* Практический учебный трек: события/UI, хранение данных, работа с API
-* База для системной отработки Android-инженерии
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="25" height="25" /> Frontend (второй трек)
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Animals%20and%20Nature/Chicken.webp" alt="Chicken" width="25" height="25" /> [The Southern Crown - админ-панель](https://github.com/gleb7499/The-southern-crown)
-
-* React + Vite
-* Экраны отчетов и настроек, каскадные фильтры, календарные сценарии
-* Экспорт XLSX/CSV, обработка loading/error состояний
-* Улучшения UX и доступности
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Symbols/Speech%20Balloon.webp" alt="Speech Balloon" width="25" height="25" /> [Support Chat - прототип панели оператора](https://github.com/gleb7499/support-chat)
-
-* HTML/CSS/JavaScript (модульный IIFE-подход)
-* Единый state и локальные store, active/archive диалоги
-* CRUD шаблонов, вложения inline-image/file, модальные сценарии
-* Подготовленный API-слой для интеграции с реальным backend
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Travel%20and%20Places/House.webp" alt="House" width="25" height="25" /> [Estate Agency - карточка объекта недвижимости](https://github.com/gleb7499/estate-agency)
-
-* HTML/CSS/JavaScript
-* Изолированная встраиваемая верстка, галерея/лайтбокс, модальные формы
-* Интеграционный слой событий для CMS-страницы
-* Адаптация под разные экраны и печатные сценарии
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="25" height="25" /> [Bitrix Introduction - динамические страницы услуг](https://github.com/gleb7499/Bitrix-introduction)
-
-* 1C-Bitrix, PHP, шаблонизация компонентов
-* Перенос статичной верстки в динамические service-страницы
-* Конфигурируемый контент через свойства инфоблока
-* Документация внедрения и масштабирования структуры страниц
-
----
-
-#### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Toolbox.webp" alt="Toolbox" width="25" height="25" /> Дополнительно
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp" alt="Mobile Phone" width="25" height="25" /> [LifeLine - учёт донаций крови](https://github.com/gleb7499/course_project_5_term)
-
-* Java, SQLite, Firebase Authentication
-* Модульная архитектура (экраны, база, модели, адаптеры)
-* Retrofit + Gson для работы с сетью
-* Material Design 3 для UI
-* Автоматический анализ кода через SonarCloud
-* <b>Один из первых серьёзных Android-проектов</b>
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Shopping%20Cart.webp" alt="Shopping Cart" width="25" height="25" /> [Система сбора данных с площадок интернет-торговли](https://github.com/gleb7499/course_project_4_term)
-
-* Python 3.12, BeautifulSoup, aiohttp
-* Асинхронный сбор данных
-* UI на customtkinter
-* SQLite для хранения, тесты на pytest
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Books.webp" alt="Books" width="25" height="25" /> [BookMaster – Приложение для управления книгами](https://github.com/gleb7499/course_project_3_term)
-
-* C++/Qt, QtWidgets
-* Добавление, редактирование и удаление книг
-* Интуитивно понятный UI
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Graduation%20Cap.webp" alt="Graduation Cap" width="25" height="25" /> [University](https://github.com/gleb7499/University)
-
-Репозиторий с лабораторными работами, выполненными в процессе обучения.
-
----
-
-### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Video%20Game.webp" alt="Video Game" width="25" height="25" /> [QuizizzHub](https://github.com/gleb7499/QuizizzHub)
-
-Проект-автоматизация для прохождения викторин.
+- **[LifeLine](https://github.com/gleb7499/course_project_5_term)** — Android blood donation tracker (Java, SQLite, Firebase Auth).
+- **[Marketplace parser](https://github.com/gleb7499/course_project_4_term)** — async marketplace scraping (Python, aiohttp, BeautifulSoup).
+- **[BookMaster](https://github.com/gleb7499/course_project_3_term)** — desktop book catalog app (C++/Qt).
+- **[MPIS](https://github.com/gleb7499/MPIS)** — Android labs (archived).
+- **[University](https://github.com/gleb7499/University)** — coursework and labs.
+- **[QuizizzHub](https://github.com/gleb7499/QuizizzHub)** — quiz automation tool.
