@@ -23,18 +23,20 @@ Java backend-инженер: Spring Boot, real-time (WebSocket/TCP), PostgreSQL,
 
 ### Свежее
 
-- **[OSTIS-2026-neuro-symbolic-rework](https://github.com/gleb7499/OSTIS-2026-neuro-symbolic-rework)** — научная статья (LaTeX/IEEEtran) про нейро-символьное управление пастеризационной установкой. Координатор команды из 5 авторов: настроил branch protection, CODEOWNERS и CI-проверку чужих файлов.
-- **Chrome-расширение для Upwork** (MV3, выгрузка выдачи вакансий в HTML) — приватный репозиторий, покажу по запросу.
+- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — рабочая версия системы оповещения о простоях производственных линий: backend, PWA-клиент, админ-панель, уведомления. Дальше — миграция с TCP-опроса на Kafka.
+- **[upwork-html-dumper](https://github.com/gleb7499/upwork-html-dumper)** — активная автоматизация поиска вакансий на Upwork: Chrome-расширение собирает выдачу, фильтрует нерелевантное и дедуплицирует.
 
 ### Проекты
 
 **Продакшн**
 
-- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — промышленный real-time контур: Spring Boot, опрос оборудования по TCP (цикл 500 мс), WebSocket, OpenAPI, Docker/Kubernetes. Backend + Android-клиент + веб-фронт.
+- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — система оперативного оповещения сотрудников о простоях и ЧП на производственных линиях (молочное производство). Spring Boot 4 / Java 21, REST + WebSocket, JWT, PostgreSQL/Flyway; веб-клиент PWA на React + TypeScript; Docker.
 
 **Инди**
 
-- **[My Dishes](https://github.com/gleb7499/My-dishes)** — Android-приложение для подсчёта КБЖУ блюд. Java, Room (SQLite, 3NF), архитектура с DAO/Repository.
+- **[My Dishes](https://github.com/gleb7499/My-dishes)** — Android-приложение для подсчёта КБЖУ домашних блюд. Java, Room (SQLite, 3NF), архитектура с DAO/Repository.
+- **[Leetcode-tracker](https://github.com/gleb7499/Leetcode-tracker)** — платформа для практики LeetCode: интервальное повторение, трекинг прогресса. TypeScript, живёт на GitHub Pages.
+- **[Gym-accounting](https://github.com/gleb7499/Gym-accounting)** — система оперативного учёта для спортзала и спортивного питания на 1C:Enterprise.
 
 **Фриланс**
 
@@ -43,14 +45,22 @@ Java backend-инженер: Spring Boot, real-time (WebSocket/TCP), PostgreSQL,
 - **[Support Chat](https://github.com/gleb7499/support-chat)** — прототип панели оператора поддержки на vanilla JS: единый state, шаблоны, вложения.
 - **[Bitrix Introduction](https://github.com/gleb7499/Bitrix-introduction)** — перенос статичной вёрстки в динамические страницы услуг на 1C-Bitrix.
 
+**Автоматизация рутины**
+
+- **[upwork-html-dumper](https://github.com/gleb7499/upwork-html-dumper)** — Chrome MV3-расширение: выгрузка выдачи вакансий Upwork в HTML с фильтрацией и дедупликацией.
+- **[Telegram-Reminders](https://github.com/gleb7499/Telegram-Reminders)** — ежемесячные напоминания в Telegram через GitHub Actions.
+- **[git_helper](https://github.com/gleb7499/git_helper)** — набор скриптов для типовых операций с Git и SSH.
+- **[SpotifyExchangeRegion](https://github.com/gleb7499/SpotifyExchangeRegion)** — десктопная автоматизация workflow со Spotify: JavaFX + Selenium.
+
 **Учёба и архив**
 
 - **[LifeLine](https://github.com/gleb7499/course_project_5_term)** — Android-приложение для учёта донаций крови (Java, SQLite, Firebase Auth).
 - **[Маркетплейс-парсер](https://github.com/gleb7499/course_project_4_term)** — асинхронный сбор данных с площадок (Python, aiohttp, BeautifulSoup).
 - **[BookMaster](https://github.com/gleb7499/course_project_3_term)** — десктопное приложение для учёта книг (C++/Qt).
-- **[MPIS](https://github.com/gleb7499/MPIS)** — Android-лабораторные (архив).
+- **[WT-AC-2025-CourseWork-Guys](https://github.com/gleb7499/WT-AC-2025-CourseWork-Guys)** — командная курсовая работа (TypeScript).
 - **[University](https://github.com/gleb7499/University)** — лабораторные работы за время обучения.
 - **[QuizizzHub](https://github.com/gleb7499/QuizizzHub)** — автоматизация прохождения викторин.
+- **[MPIS](https://github.com/gleb7499/MPIS)** — Android-лабораторные (архив).
 
 ---
 
@@ -64,18 +74,20 @@ Java backend engineer: Spring Boot, real-time (WebSocket/TCP), PostgreSQL, Docke
 
 ### Recent
 
-- **[OSTIS-2026-neuro-symbolic-rework](https://github.com/gleb7499/OSTIS-2026-neuro-symbolic-rework)** — LaTeX/IEEEtran paper on neuro-symbolic control of a pasteurization unit. Coordinated a team of 5 authors: branch protection, CODEOWNERS, CI file-guard.
-- **Upwork Chrome extension** (MV3, dumps job search pages to HTML) — private repo, happy to share on request.
+- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — working version of a production-line downtime alert system: backend, PWA client, admin panel, notifications. Next step: migrating from TCP polling to Kafka.
+- **[upwork-html-dumper](https://github.com/gleb7499/upwork-html-dumper)** — active Upwork job-search automation: a Chrome extension that collects listings, filters mismatches, and deduplicates.
 
 ### Projects
 
 **Production**
 
-- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — industrial real-time system: Spring Boot, TCP equipment polling (500 ms cycle), WebSocket, OpenAPI, Docker/Kubernetes. Backend + Android client + web frontend.
+- **[SCADA Mobile](https://github.com/gleb7499/scada-mobile)** — real-time alerting system for production-line stoppages and incidents at a dairy plant. Spring Boot 4 / Java 21, REST + WebSocket, JWT, PostgreSQL/Flyway; PWA client on React + TypeScript; Docker.
 
 **Indie**
 
-- **[My Dishes](https://github.com/gleb7499/My-dishes)** — Android app for tracking meal macros. Java, Room (SQLite, 3NF), clean DAO/Repository architecture.
+- **[My Dishes](https://github.com/gleb7499/My-dishes)** — Android app for tracking homemade dishes and macros. Java, Room (SQLite, 3NF), clean DAO/Repository architecture.
+- **[Leetcode-tracker](https://github.com/gleb7499/Leetcode-tracker)** — LeetCode practice platform: spaced repetition, progress tracking. TypeScript, live on GitHub Pages.
+- **[Gym-accounting](https://github.com/gleb7499/Gym-accounting)** — gym operations and sports nutrition accounting system built on 1C:Enterprise.
 
 **Freelance**
 
@@ -84,11 +96,19 @@ Java backend engineer: Spring Boot, real-time (WebSocket/TCP), PostgreSQL, Docke
 - **[Support Chat](https://github.com/gleb7499/support-chat)** — support operator panel prototype in vanilla JS: single state, templates, attachments.
 - **[Bitrix Introduction](https://github.com/gleb7499/Bitrix-introduction)** — migrating static layouts to dynamic service pages on 1C-Bitrix.
 
+**Personal automation**
+
+- **[upwork-html-dumper](https://github.com/gleb7499/upwork-html-dumper)** — Chrome MV3 extension that dumps Upwork job search pages to HTML with filtering and deduplication.
+- **[Telegram-Reminders](https://github.com/gleb7499/Telegram-Reminders)** — monthly Telegram reminders powered by GitHub Actions.
+- **[git_helper](https://github.com/gleb7499/git_helper)** — scripts for repeatable Git and SSH workflows.
+- **[SpotifyExchangeRegion](https://github.com/gleb7499/SpotifyExchangeRegion)** — desktop automation for a Spotify account region workflow: JavaFX + Selenium.
+
 **University & archive**
 
 - **[LifeLine](https://github.com/gleb7499/course_project_5_term)** — Android blood donation tracker (Java, SQLite, Firebase Auth).
 - **[Marketplace parser](https://github.com/gleb7499/course_project_4_term)** — async marketplace scraping (Python, aiohttp, BeautifulSoup).
 - **[BookMaster](https://github.com/gleb7499/course_project_3_term)** — desktop book catalog app (C++/Qt).
-- **[MPIS](https://github.com/gleb7499/MPIS)** — Android labs (archived).
+- **[WT-AC-2025-CourseWork-Guys](https://github.com/gleb7499/WT-AC-2025-CourseWork-Guys)** — team coursework project (TypeScript).
 - **[University](https://github.com/gleb7499/University)** — coursework and labs.
 - **[QuizizzHub](https://github.com/gleb7499/QuizizzHub)** — quiz automation tool.
+- **[MPIS](https://github.com/gleb7499/MPIS)** — Android labs (archived).
